@@ -1,0 +1,2 @@
+env:
+  MONGODB_URI: ${{ secrets.MONGODB_URI }}
